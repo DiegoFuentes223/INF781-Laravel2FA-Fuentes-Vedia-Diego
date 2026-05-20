@@ -53,7 +53,7 @@ Desarrollado como práctica de laboratorio para la asignatura **INF781 — Segur
 ### 1. Clonar el repositorio
 
 ```bash
-git https://github.com/DiegoFuentes223/INF781-Laravel2FA-Fuentes-Vedia-Diego.git
+git clone https://github.com/DiegoFuentes223/INF781-Laravel2FA-Fuentes-Vedia-Diego.git
 cd INF781-Laravel2FA-Fuentes-Vedia-Diego
 ```
 
